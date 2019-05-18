@@ -15,6 +15,8 @@
  * @license   GPL-2.0-or-later
  */
 
+defined( 'ABSPATH' ) || exit;
+
 /**
  * Allows to choose and preview a theme without activation.
  *
