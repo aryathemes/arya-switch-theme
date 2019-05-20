@@ -1,4 +1,4 @@
-=== Switch Theme ===
+=== Arya Switch Theme ===
 Contributors: aryathemes
 Tags: theme switcher, demo, switch theme, preview, utility
 Requires at least: 5.0
