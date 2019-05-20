@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Switch Theme
+ * Plugin Name: Arya Switch Theme
  * Plugin URI: https://github.com/aryathemes/arya-switch-theme
  * Description: Allows users to choose and preview all WordPress themes installed without activation or deactivation for demonstration purposes.
  * Author: Arya Themes
