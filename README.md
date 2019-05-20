@@ -1,6 +1,7 @@
 # Switch Theme
 
-Allows to choose and preview a theme without activation.
+Allows users to choose and preview all WordPress themes installed without
+activation or deactivation for demonstration purposes.
 
 ## Requirements
 

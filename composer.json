@@ -1,7 +1,7 @@
 {
     "name": "aryathemes/arya-switch-theme",
     "type": "wordpress-plugin",
-    "description": "Allows to choose and preview a theme without activation.",
+    "description": "Allows users to choose and preview all WordPress themes installed without activation or deactivation for demonstration purposes.",
     "version": "1.0.0",
     "license": "GPL-2.0-or-later",
     "keywords": [
