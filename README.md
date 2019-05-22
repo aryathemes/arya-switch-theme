@@ -25,6 +25,11 @@ Stop and remove containers, networks, images, and volumes
     https://example.com/?theme=slug-theme
     https://example.com/?theme=slug-theme&child=slug-child-theme
 
+## Credits
+
+* Icon made by [Gregor Cresnar](https://www.flaticon.com/authors/gregor-cresnar)
+  from [www.flaticon.com](https://www.flaticon.com/free-icon/change_125860)
+
 ## License
 
 This project is licensed under the GNU General Public License, Version 2.0.
