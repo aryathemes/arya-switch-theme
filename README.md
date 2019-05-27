@@ -3,6 +3,9 @@
 Allows users to choose and preview all WordPress themes installed without
 activation or deactivation for demonstration purposes.
 
+The latest stable version is also available from the
+[WordPress Plugin Directory](https://wordpress.org/plugins/arya-switch-theme/).
+
 ## Requirements
 
 * PHP version 7.0 or greater
