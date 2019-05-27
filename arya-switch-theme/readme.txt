@@ -8,13 +8,11 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
  
-Allows users to choose and preview all WordPress themes installed without
-activation or deactivation for demonstration purposes.
+Allows users to choose and preview all WordPress themes installed without activation or deactivation for demonstration purposes.
 
 == Description ==
 
-Allows users to choose and preview all WordPress themes installed without
-activation or deactivation for demonstration purposes.
+Allows users to choose and preview all WordPress themes installed without activation or deactivation for demonstration purposes.
 
 = Usage =
 
