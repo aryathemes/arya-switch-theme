@@ -4,8 +4,15 @@
     "description": "Allows users to choose and preview all WordPress themes installed without activation or deactivation for demonstration purposes.",
     "version": "1.0.0",
     "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Luis A. Ochoa",
+            "role": "Developer"
+        }
+    ],
     "keywords": [
         "switch-theme",
+        "demo",
         "preview",
         "utility",
         "wordpress"
