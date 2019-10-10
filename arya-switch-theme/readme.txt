@@ -1,8 +1,8 @@
 === Arya Switch Theme ===
 Contributors: aryathemes
-Tags: theme switcher, demo, switch theme, preview, utility
+Tags: theme switcher, demo, switch theme, preview, utility, developers
 Requires at least: 5.0
-Tested up to: 5.2
+Tested up to: 5.3
 Requires PHP: 7.0
 Stable tag: trunk
 License: GPLv2 or later
@@ -20,6 +20,13 @@ Allows users to choose and preview all WordPress themes installed without activa
     https://example.com/?theme=slug-theme&child=slug-child-theme
 
 == Installation ==
+
+= Minimum Requirements =
+
+* WordPress 5.0 or greater
+* PHP 7.0 or greater
+
+= Manual installation =
 
 1. Unzip the arya-switch-theme.zip folder.
 1. Upload the entire arya-switch-theme folder to the /wp-content/plugins/ directory.
